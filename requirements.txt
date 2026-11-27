@@ -1,0 +1,6 @@
+# Bird sound ID (open source, runs offline). Needs Python 3.11-3.13.
+birdnet_analyzer
+# Web UI
+gradio>=4.0
+# Tests
+pytest
