@@ -1,0 +1,8 @@
+[
+  {"clip": "demo_01.wav", "start_s": 3.0, "end_s": 6.0, "scientific_name": "Copsychus saularis", "common_name": "Oriental Magpie-Robin", "confidence": 0.91},
+  {"clip": "demo_01.wav", "start_s": 9.0, "end_s": 12.0, "scientific_name": "Psilopogon haemacephalus", "common_name": "Coppersmith Barbet", "confidence": 0.84},
+  {"clip": "demo_02.wav", "start_s": 0.0, "end_s": 3.0, "scientific_name": "Pycnonotus xantholaemus", "common_name": "Yellow-throated Bulbul", "confidence": 0.72},
+  {"clip": "demo_02.wav", "start_s": 6.0, "end_s": 9.0, "scientific_name": "Vanellus indicus", "common_name": "Red-wattled Lapwing", "confidence": 0.88},
+  {"clip": "demo_03.wav", "start_s": 0.0, "end_s": 3.0, "scientific_name": "Eudynamys scolopaceus", "common_name": "Asian Koel", "confidence": 0.95},
+  {"clip": "demo_03.wav", "start_s": 12.0, "end_s": 15.0, "scientific_name": "Turdus merula", "common_name": "Eurasian Blackbird", "confidence": 0.31}
+]
